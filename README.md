@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Youssef-AbuTaleb
-- 👀 I’m interested in web development and frontend
-- 🌱 I’m currently learning full stack using MEARN
-- 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me: youssefabdelmoneim134@gmail.com
+# 👋 Hi, I'm [Youssef Abdel-Moneim]
 
-<!---
-Youssef-AbuTaleb/Youssef-AbuTaleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Frontend Developer | Problem Solver | Continuous Learner
+
+Currently crafting Vue.js plugins at Numinix eCommerce platform. I believe in dynamic thinking and solving problems beyond syntax or frameworks.
+
+### 🛠️ Tech Stack
+- JavaScript (ES6+)
+- Typescript
+- Vue.js, Pinia, React.js, Next.js
+- Redux, Redux Toolkit, Context Api
+- HTML5, CSS3, Sass, Tailwind, Bootstrap
+- TypeScript
+- REST APIs, Graphql, Grpc
+- Git version control
+
+### 🎓 Education
+- Bachelor's in Civil Engineering, Alexandria University
+- ITI 3-Month Full Stack Web Development (MEARN) Training
+
+### 💼 Experience
+- **Frontend Developer** at Numinix (2023 - present)
+  - Built and deployed 8+ Vue.js plugins for eCommerce websites
+  - Collaborate with UI/UX and backend teams for fully functional plugins
+- **Software Engineer** at Huawei Smart Village (Previous role)
+  - Developed apps using GDE platform, HTML, CSS, JS, Python, and SQL
+
+### 🌟 Philosophy
+I strive to create scalable and maintainable solutions by understanding core programming concepts. My goal is to be a versatile developer who can adapt to any challenge.
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abdel-moneim-b19b06242/)
