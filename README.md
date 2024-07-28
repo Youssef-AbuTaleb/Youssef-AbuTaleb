@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Youssef Abdel-Moneim]
+# 👋 Hi, I'm Youssef Abdel-Moneim
 
 ## 💻 Frontend Developer | Problem Solver | Continuous Learner
 
