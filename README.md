@@ -19,7 +19,11 @@ Currently crafting Vue.js plugins at Numinix eCommerce platform. I believe in dy
 - ITI 3-Month Full Stack Web Development (MEARN) Training
 
 ### 💼 Experience
-- **Frontend Developer** at Numinix (2023 - present)
+- **Frontend Developer** at Creative Way Ad (2024/11 - present)
+  - Developing and maintaining web forms utilized by ministry employees for daily tasks, including data entry and statistics tracking.
+  - Designed and implemented dashboards for managers to monitor employee performance and observe organizational metrics.
+  - Collaborated with cross-functional teams to enhance user experience and ensure scalability.
+- **Frontend Developer** at Numinix (2023/01 - 2024/10)
   - Built and deployed 8+ Vue.js plugins for eCommerce websites
   - Collaborate with UI/UX and backend teams for fully functional plugins
 - **Software Engineer** at Huawei Smart Village (Previous role)
